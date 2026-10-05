@@ -39,6 +39,8 @@ Treating every lead the same wastes effort on cold ones and leaves hot ones wait
 
 ## Screenshots
 
+> Screenshots show the app running on seeded demo data, not client data.
+
 **Lead overview by tier**
 
 ![Lead overview by tier](assets/00-dashboard.png)
